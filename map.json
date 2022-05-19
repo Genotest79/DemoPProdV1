@@ -372,7 +372,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.vr-bildung.de\/"
+                 "value":"https:\/\/genoakademie.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
