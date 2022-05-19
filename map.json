@@ -370,9 +370,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"url",
                  "type":"string",
-                 "value":"https:\/\/genoakademie.de\/"
+                 "value":"https:\/\/vr-bildung.de"
                 }],
          "type":"tilelayer",
          "visible":true,
