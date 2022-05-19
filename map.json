@@ -204,7 +204,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"www.vr-bildung.de"
+                 "value":"https:\/\/vr-bildung.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
